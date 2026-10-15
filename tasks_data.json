@@ -1,0 +1,42 @@
+[
+  {
+    "id": "task_1",
+    "title": "Review Q4 Project Deliverables & Objectives",
+    "description": "Coordinate with team leads to finalize the upcoming release milestone.",
+    "category": "Work",
+    "priority": "Urgent",
+    "completed": false,
+    "created_at": "2026-10-08 11:11",
+    "due_date": "Today, 5:00 PM"
+  },
+  {
+    "id": "task_2",
+    "title": "Refactor UI design with clean blue and white aesthetic",
+    "description": "Ensure crisp typography, accessible contrast, and intuitive navigation.",
+    "category": "Projects",
+    "priority": "High",
+    "completed": true,
+    "created_at": "2026-10-08 11:11",
+    "due_date": "Completed"
+  },
+  {
+    "id": "task_3",
+    "title": "Verify responsive components on mobile & tablet viewport",
+    "description": "Check touch targets, flexible flex-grids, and modal dialog behavior.",
+    "category": "Projects",
+    "priority": "Medium",
+    "completed": false,
+    "created_at": "2026-10-08 11:11",
+    "due_date": "Tomorrow"
+  },
+  {
+    "id": "task_4",
+    "title": "Weekly team sync & status architecture roundup",
+    "description": "Present progress on the desktop Tkinter interface & zip package distribution.",
+    "category": "Work",
+    "priority": "Low",
+    "completed": false,
+    "created_at": "2026-10-08 11:11",
+    "due_date": "Friday, 10:00 AM"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "note_1",
+    "title": "Design System & Color Tokens",
+    "content": "Primary palette: Cobalt Blue (#1D4ED8), Deep Navy (#1E40AF), Ice Blue (#EFF6FF), Crisp White (#FFFFFF). High contrast ratio ensuring WCAG accessibility.",
+    "tag": "Design",
+    "pinned": true,
+    "updated_at": "2026-10-08 11:11"
+  },
+  {
+    "id": "note_2",
+    "title": "Tkinter Architecture Principles",
+    "content": "Keep logic decoupled from Tkinter widgets. Use ttk.Style for unified modern theming across Windows, macOS, and Linux.",
+    "tag": "Architecture",
+    "pinned": false,
+    "updated_at": "2026-10-08 11:11"
+  }
+]

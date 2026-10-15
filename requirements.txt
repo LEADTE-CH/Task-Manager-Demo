@@ -1,0 +1,5 @@
+# BluePrint Tkinter Desktop Application
+# Uses standard library modules (tkinter, json, datetime, dataclasses, typing).
+# No external pip dependencies are strictly required!
+# Optional enhanced image support:
+# Pillow>=10.0.0
